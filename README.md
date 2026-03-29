@@ -2,5 +2,5 @@
 
 The /pgr/ shitposting repo
 
-Current patch: Rosetta
+Current patch: Nirvatia
 
