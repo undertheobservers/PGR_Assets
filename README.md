@@ -2,5 +2,5 @@
 
 The /pgr/ shitposting repo
 
-Current patch: Nirvatia
+Current patch: Kamui
 
