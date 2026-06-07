@@ -2,5 +2,5 @@
 
 The /pgr/ shitposting repo
 
-Current patch: Kamui
+Current patch: Alpha
 
