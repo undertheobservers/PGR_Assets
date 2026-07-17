@@ -2,5 +2,4 @@
 
 The /pgr/ shitposting repo
 
-Current patch: Alpha
-
+Current patch: Helentine
