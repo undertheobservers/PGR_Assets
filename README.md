@@ -2,5 +2,5 @@
 
 The /pgr/ shitposting repo
 
-Current patch: Karenina
+Current patch: Adelyde & Kurumi
 
